@@ -1,0 +1,9 @@
+{
+	"name": "AvinashAdfDemo1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76628a4b-5fb5-4821-bf06-86f17ecb8893",
+		"tenantId": "e4f40be7-af4a-48c6-aca7-b06218cfc75e"
+	}
+}
